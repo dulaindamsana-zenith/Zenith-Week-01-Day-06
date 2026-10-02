@@ -45,7 +45,7 @@ chmod +x *.sh
 ./backdoor_detector.sh
 
 ## License
-This project is licensed under 
+This project is licensed under GDPL-3.0
 
 ## Author
 *Dulain Damsana*
